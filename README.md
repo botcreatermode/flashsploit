@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/KoY1Y96.jpg"></p>
+
 
 <h4 align="center">Exploitation Framework for ATtiny85 HID Attacks</h4>
 
@@ -104,7 +104,7 @@ pacman -S flashsploit
 #### Kali Linux
 
 ```bash
-git clone https://github.com/thewhiteh4t/flashsploit.git 
+git clone https://github.com/botcreatermode/flashsploit.git 
 cd flashsploit
 python3 flashsploit.py 
 ```
